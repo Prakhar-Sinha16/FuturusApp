@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Futurus</string>
+    <string name="welcome_to_futurus">Welcome to Futurus</string>
+    <string name="name">Name</string>
+    <string name="e_mail_id">E-Mail id</string>
+    <string name="submit">Submit</string>
+    <string name="no_account">Not have account? <b>SignUp</b></string>
+</resources>

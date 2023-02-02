@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594647364245",
+    "project_id": "elaa-c4001",
+    "storage_bucket": "elaa-c4001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594647364245:android:95eefa943e024ea24b619c",
+        "android_client_info": {
+          "package_name": "com.example.futurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594647364245-6nd41koian34qshirlugeaijqs2fal0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ogrzWhimidtDd8obmJPTXax7IWrwiKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594647364245-6nd41koian34qshirlugeaijqs2fal0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
