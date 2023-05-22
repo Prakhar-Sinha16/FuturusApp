@@ -76,7 +76,7 @@ class FirstFragment : AppCompatActivity() {
                 override fun getHeaders(): MutableMap<String, String> {
                     val params: MutableMap<String,String> = HashMap()
                     params["Content-Type"] = "application/json"
-                    params["Authorization"] = "Bearer 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"
+                    params["Authorization"] = "your api key"
                     return params
                 }
             }
