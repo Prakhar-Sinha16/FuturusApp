@@ -107,7 +107,7 @@ class LoginActivity : AppCompatActivity() {
                 Toast.makeText(this, "Login as $email", Toast.LENGTH_SHORT).show()
 
                 //open profile
-                startActivity(Intent(this, ProfileActivity::class.java))
+                startActivity(Intent(this, DashBoard::class.java))
                 finish()
 
             }

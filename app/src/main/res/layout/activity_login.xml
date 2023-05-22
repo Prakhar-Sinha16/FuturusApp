@@ -54,7 +54,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
-            android:inputType="textPassword" />
+            android:inputType="textPassword"
+            android:contentDescription="this is for password"/>
     </com.google.android.material.textfield.TextInputLayout>
 
 <!--    Login Button -->

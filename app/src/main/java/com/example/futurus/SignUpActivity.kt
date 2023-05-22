@@ -87,7 +87,7 @@ class SignUpActivity : AppCompatActivity() {
                 Toast.makeText(this, "SignUp as $email", Toast.LENGTH_SHORT).show()
 
                 //open profile
-                startActivity(Intent(this, ProfileActivity::class.java))
+                startActivity(Intent(this, LoginActivity::class.java))
                 finish()
 
             }
